@@ -3,7 +3,7 @@ In the contemporary landscape, the imperative for cost-effective solutions is pa
 ### Overall Workflow
 ![Project Image](https://github.com/anurup123/Feature-Selection-using-Guided-Population-based-Genetic-Algorithm-with-Modified-Crossover-and-Parent/blob/main/FLowchart_GA_modifies_final%20(1).png)
 ### Authors
-Anurup Naskar
-Soumyajit Ghosh
-Mahantapas Kundu
+Anurup Naskar<br/>
+Soumyajit Ghosh<br/>
+Mahantapas Kundu<br/>
 Ram Sarkar
